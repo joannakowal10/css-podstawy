@@ -35,24 +35,51 @@ a {
 
 header#header {
     position: relative;
-    
+
 }
+
 header#header h1 {
     position: absolute;
     color: white;
     text-transform: none;
+    font-size: 60px;
     top: 50%;
-    left: 50%;
-    font-size: 45px;
-    
-    }
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+
+}
 
 
 header#header > img {
-    position: relative;
     width: 100%;
 }
 
 section#about {
     text-align: center;
+    padding: 20px;
+}
+
+/*section*/
+
+section > h3 {
+    font-size: 30px;
+
+}
+
+section > p {
+    padding: 15px;
+    text-align: center;
+
+}
+
+/*footer*/
+
+footer#contact {
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 190px;
+    padding: 10px;
+
 }
