@@ -80,5 +80,9 @@ footer#contact {
     color: white;
     height: 190px;
     padding: 10px;
+    
+}
 
+#contact-content {
+    font-style: normal;
 }
