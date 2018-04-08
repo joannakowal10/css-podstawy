@@ -4,6 +4,7 @@ body {
 div {
     width: 400px;
     height: 50px;
+    margin-bottom: 20px;
 }
 
 #predefiniowane {
@@ -12,4 +13,13 @@ div {
 }
 #hex {
    background-color: #2f4858;
+}
+#hex-skrocony {
+    background-color: #f4a
+}
+#rgb {
+    background-color: rgb(222,46,6);
+}
+#rgba {
+    background-color: rgb(222,46,6,0.6)
 }
