@@ -1,0 +1,43 @@
+html {
+    font-size: 20px;
+}
+
+body {
+    background-color: azure;
+}
+
+#container {
+    font-size: 30px;
+    width: 150px;
+    height: 50px;
+
+}
+
+#container > div {
+    background-color: lightcoral;
+    margin-bottom: 10px;
+}
+
+#pixel {
+    width: 400px;
+}
+
+#em {
+    width: 15em;
+}
+
+#ex {
+    width: 40ex;
+}
+
+
+#vw {
+    width: 40vw;
+}
+
+#vh {
+    width: 40vh;
+}
+#procenty {
+    width: 40%;
+}
