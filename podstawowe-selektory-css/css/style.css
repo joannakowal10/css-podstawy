@@ -12,3 +12,13 @@ a, span,div {
 li > a {
     background-color: darkturquoise
 }
+
+ul a {
+    background-color: blue
+}
+h1 ~ p {
+    color: pink;
+}
+ul#lista > li:not(.last) {
+    background-color: beige
+}
