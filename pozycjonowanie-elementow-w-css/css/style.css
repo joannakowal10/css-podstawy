@@ -1,0 +1,48 @@
+body {
+    background-color: pink;
+}
+
+#pierwszy {
+    background-color: green;
+    width: 600px;
+    height: 200px;
+
+    margin-bottom: 10px;
+    position: relative;
+    top: 40px;
+    left: 50px;
+
+}
+#pierwszy-prim {
+    background-color: yellow;
+    margin: 5px;
+    height: 50px;
+    width: 200px;
+    position: fixed;
+    
+}
+
+#pierwszy-absolutny {
+    background-color: violet;
+    position: absolute;
+    bottom: 15 {px;
+    left: 5px;
+}
+
+
+#drugi {
+    background-color: red;
+    width: 600px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+#trzeci {
+    background-color: aqua;
+    width: 80px;
+    height: 100px;
+    
+    position: fixed;
+    top: 10px;
+    
+}
