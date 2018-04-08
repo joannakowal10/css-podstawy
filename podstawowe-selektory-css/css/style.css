@@ -22,3 +22,6 @@ h1 ~ p {
 ul#lista > li:not(.last) {
     background-color: beige
 }
+ul#lista > li:nth-child(3) {
+    background-color: red
+}
