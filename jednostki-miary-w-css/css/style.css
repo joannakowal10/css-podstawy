@@ -41,3 +41,9 @@ body {
 #procenty {
     width: 40%;
 }
+#vmin {
+    width: 40vmin;
+}
+#vmax {
+    width: 40vmax;
+}
