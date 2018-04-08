@@ -1,0 +1,58 @@
+body {
+    margin: 0px;
+    font-family: "lato", "sans-serif";
+
+}
+
+
+/*navigation*/
+
+nav#menu {
+    text-align: center;
+    background-color: black;
+    font-size: 20px;
+    height: 70px;
+}
+
+nav#menu > ul {
+    margin: 0px;
+
+}
+
+nav#menu > ul > li {
+    display: inline-block;
+    margin: 20px;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+/*header*/
+
+header#header {
+    position: relative;
+    
+}
+header#header h1 {
+    position: absolute;
+    color: white;
+    text-transform: none;
+    top: 50%;
+    left: 50%;
+    font-size: 45px;
+    
+    }
+
+
+header#header > img {
+    position: relative;
+    width: 100%;
+}
+
+section#about {
+    text-align: center;
+}
